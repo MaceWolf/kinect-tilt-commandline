@@ -1,0 +1,6 @@
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\bin\Debug\KinectTest1.exe.config
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\bin\Debug\KinectTest1.exe
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\bin\Debug\KinectTest1.pdb
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\obj\Debug\KinectTest1.csprojResolveAssemblyReference.cache
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\obj\Debug\KinectTest1.exe
+d:\users\hayden\documents\visual studio 2012\Projects\KinectTest1\KinectTest1\obj\Debug\KinectTest1.pdb
