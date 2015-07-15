@@ -1,0 +1,2 @@
+This project contains the source code and executable for a simple script written in C# that will tilt the first connected kinect device to the specified height.
+The height is specified as the first command line parameter and can be between -27 and 27 inclusive (0 being level).
